@@ -48,7 +48,7 @@ a:hover {
 }
 
 .linkedIN:hover {
-  color: #0c6790;
+  color: #34a5da;
   text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:hover {
 }
 
 .Gmail:hover {
-  color: #a50019;
+  color: #df0122;
   text-decoration: none;
 }
 
@@ -68,11 +68,11 @@ a:hover {
 .GitHub
 {
   border: 3px solid #cacaca;
-  color: #fff;
+  color: rgb(228, 228, 228);
 }
 
 .GitHub:hover {
-  color: #242424;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -150,11 +150,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.185);
 }
-
-
-
 
 
 @media (max-width: 992px) {
