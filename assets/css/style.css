@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #contact-form {
-	max-width: 50%;
+	max-width: 1000px;
 	margin: 0 auto
 }
 
@@ -177,10 +177,6 @@ h1, h2, h3, h4, h5, h6 {
 #contact-form button:hover {
   box-shadow: 0 1px 3px;
 }
-
-
-
-
 
 
 /*--------------------------------------------------------------
