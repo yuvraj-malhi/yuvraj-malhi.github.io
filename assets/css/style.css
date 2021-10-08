@@ -54,6 +54,17 @@ a:hover {
 
 .Gmail
 {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  
+  line-height: 1;
+  margin-right: 8px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
   border: 3px solid #BB001B;
   color: #fff;
 }
@@ -62,6 +73,31 @@ a:hover {
   color: #df0122;
   text-decoration: none;
 }
+
+
+.Gmail2
+{
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.1);
+  
+  line-height: 1;
+  margin-right: 8px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border: 3px solid #BB001B;
+  color: #fff;
+}
+
+.Gmail2:hover {
+  background: rgba(255, 255, 255, 0.185);
+  color: #df0122;
+  text-decoration: none;
+}
+
 
 
 .GitHub
@@ -125,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header img {
-  padding: 100;
+  padding: 0;
   margin: 0;
 }
 
