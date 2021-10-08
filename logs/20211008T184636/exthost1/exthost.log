@@ -101,3 +101,5 @@
 [2021-10-08 19:05:20.958] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
 [2021-10-08 19:05:55.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
 [2021-10-08 19:05:55.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-10-08 22:00:40.753] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-08 22:00:41.762] [exthost] [info] exiting with code 0
