@@ -1,0 +1,88 @@
+Validating found git in: git
+Using git 2.27.0 from git
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/css' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/.DS_Store' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/CV.pdf' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/LICENSE.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/css' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/favicon.ico' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/gulpfile.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/images' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/index.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/js' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/libs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/scss' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/root/Desktop/web/shramay-palta.github.io/css' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

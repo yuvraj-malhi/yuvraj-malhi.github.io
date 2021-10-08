@@ -116,6 +116,75 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+#contact-form {
+	max-width: 50%;
+	margin: 0 auto
+}
+
+#contact-form input,#contact-form textarea {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border-radius: 4px;
+	border: none;
+	margin-bottom: 10px;
+	background: #09203a;
+	color: #fff;
+	transition: .5s ease all
+}
+
+#contact-form input::-webkit-input-placeholder,#contact-form textarea::-webkit-input-placeholder {
+	color: #ffffff
+}
+
+#contact-form input:-moz-placeholder,#contact-form textarea:-moz-placeholder {
+	color: #ffffff;
+	opacity: 1
+}
+
+#contact-form input::-moz-placeholder,#contact-form textarea::-moz-placeholder {
+	color: #ffffff;
+	opacity: 1
+}
+
+#contact-form input:-ms-input-placeholder,#contact-form textarea:-ms-input-placeholder {
+	color: #ffffff
+}
+
+#contact-form input:focus,#contact-form textarea:focus {
+	outline: none;
+	background: #09203a;
+	color:#ffffff
+}
+
+#contact-form textarea {
+	height: 200px;
+	resize: none
+}
+
+#contact-form button {
+	display: block;
+	width: 100%;
+	background: #09203a;
+	border-radius: 4px;
+	padding: 5px 10px;
+	border: none;
+	color: #ffffff;
+	font-weight: 700;
+	box-shadow: 0 1px 3px #09203;
+	transition: .5s ease all
+}
+
+#contact-form button:hover {
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19),0 6px 6px rgba(0,0,0,0.23)
+}
+
+
+
+
+
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
