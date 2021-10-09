@@ -205,7 +205,7 @@
 		startPosition: 0,
 		rtl: false,
 
-		smartSpeed: 250,
+		smartSpeed: 0,
 		fluidSpeed: false,
 		dragEndSpeed: false,
 
