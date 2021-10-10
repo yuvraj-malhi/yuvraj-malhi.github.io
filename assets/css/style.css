@@ -573,8 +573,8 @@ section .container {
 }
 
 .dd date{
-  padding-left: -30px;
-  margin-left: -180px;
+  padding-left: 20px;
+  margin-left: -200px;
 }
 
 .dd:hover{
