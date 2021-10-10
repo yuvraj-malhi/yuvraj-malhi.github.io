@@ -573,7 +573,7 @@ section .container {
 }
 
 .dd date{
-  padding-left: 0px;
+  padding-left: -20px;
   margin-left: -200px;
 }
 
