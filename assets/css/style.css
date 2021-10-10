@@ -541,11 +541,12 @@ section .container {
 --------------------------------------------------------------*/
 .timeline-area{
   margin: 20px auto;
-  margin-right: 0px;
+  margin-right: -10px;
   width: 85%;
   border-left: 2px solid #ccc;
   padding: 0 20px 0 30px;
-  padding-left: 40px;
+  padding-left: 30px;
+  padding-right: 0px;
 }
 
 .dd{
