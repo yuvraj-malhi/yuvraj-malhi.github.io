@@ -568,8 +568,8 @@ section .container {
   border: 3px solid #ddd;
   background-color: #15bb62;
   position: absolute;
-  top:18px;
-  left:-40px;
+  top:14px;
+  left:-41px;
 }
 
 .dd date{
